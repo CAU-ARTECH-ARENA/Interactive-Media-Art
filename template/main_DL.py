@@ -6,7 +6,7 @@ import re
 print(cv2.__version__)
 print(tf.__version__)
 
-with open("face_label_map.pbtxt","rt") as f:
+with open("face_label_map.pbtxt","rt") as f: #Absolute Path
     pb_classes = f.read().rstrip('\n').split('\n')
     
     classes_label = dict()
@@ -16,7 +16,7 @@ with open("face_label_map.pbtxt","rt") as f:
         pb_text = re.search(pattern, pb_classes[i+3])
         classes_label[pb_classId] = pb_text.group(1)
         
-with tf.io.gfile.GFile("C:/Users/GRlab/Desktop/frozen_inference_graph.pb", 'rb') as f:
+with tf.io.gfile.GFile("frozen_inference_graph.pb", 'rb') as f: #Absolute Path
     graph = tf.compat.v1.GraphDef()
     graph.ParseFromString(f.read())
 
