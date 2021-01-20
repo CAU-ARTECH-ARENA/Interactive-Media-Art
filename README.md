@@ -126,6 +126,10 @@ function draw() {
 
 Quick Setup : [setupfile](https://github.com/CAU-ARTECH-ARENA/video-filter/tree/main/exe.sh)
 
+## Applications
+
+<p align="center"><img src="https://github.com/CAU-ARTECH-ARENA/video-filter/blob/main/imgs/ref_01.png" width="50%" height="50%"></p>
+
 ## Reference Image
 
 <p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/OfxOpenCV.png"></p>
