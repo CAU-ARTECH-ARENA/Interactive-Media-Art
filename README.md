@@ -34,13 +34,13 @@ Create Video Filter with Face Tracking using opencv like Snow App and Zoom Func.
 
 - CV : 
 
-1. Install Anaconda : [https://www.anaconda.com/products/individual](https://www.anaconda.com/products/individual) (Chekc your OS.)
+1. Install Anaconda : [https://www.anaconda.com/products/individual](https://www.anaconda.com/products/individual) (Check your OS.)
 
 2. Open 'Anaconda Prompt'
 ```dash
 (base) C:> conda create -n [env_name] python=3.8
 (base) C:> activate [env_name]
-(base) C:> pip install opencv-python==4.0.0.21
+([env_name]) C:> pip install opencv-python==4.0.0.21
 ```
 
 3. Open 'Anaconda Navigator' > Applications on [env_name] > Install and Launch Jupyter Notebook
