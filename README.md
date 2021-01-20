@@ -16,6 +16,11 @@ Create Video Filter with Face Tracking using opencv like Snow App and Zoom Func.
 
 - **IDE : [Visual Studio](https://visualstudio.microsoft.com/ko/)**
 
+#### JavaScript
+
+- **IDE : [Web Editor](https://editor.p5js.org/)**
+- **p5.js == 1.2.0**
+
 
 ## Getting Started
 
