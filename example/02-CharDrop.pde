@@ -19,11 +19,12 @@ void setup() {
 }
 
 int ack=1;
+int index;
 
 void draw() {
   //image(cam, 0, 0);
   ack= (ack > 200) ? 1 : ack+1;
-  int index=0; 
+  index=0; 
   color c;
   for (int i=0; i<=width; i+=width/90)
   {
