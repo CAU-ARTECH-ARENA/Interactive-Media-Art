@@ -39,7 +39,7 @@
 1. Install Anaconda : [https://www.anaconda.com/products/individual](https://www.anaconda.com/products/individual) (Check your OS.)
 
 2. Open 'Anaconda Prompt'
-```dash
+```bash
 (base) C:> conda create -n [env_name] python=3.8
 (base) C:> activate [env_name]
 ([env_name]) C:> pip install opencv-python==4.0.0.21
