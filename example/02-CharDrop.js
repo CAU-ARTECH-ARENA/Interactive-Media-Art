@@ -33,5 +33,5 @@ function draw() {
   }
   
   
-  image(cam, 0, 0);
+  //image(cam, 0, 0);
 }
