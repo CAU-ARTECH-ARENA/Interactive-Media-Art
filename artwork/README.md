@@ -8,7 +8,7 @@ ARENA, Art & Technology, CAU.
 
 Content : thresholding is the simplest method of segmenting images.
 <br>Creator : [Bumsoo Kim](https://github.com/gh-BumsooKim)
-<br>Code : [Processing Code]()
+<br>Code : [Processing Code](00-Image-ThresHolding/ThresHolding.pde)
 
 Reference : [What is Thresholding](https://en.wikipedia.org/wiki/Thresholding_(image_processing))
 
