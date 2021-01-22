@@ -1,7 +1,7 @@
 # video-filter
 *Create Video Filter with Face Tracking using opencv like Snow App and Zoom Func.*
 
-**Our Artwork is [Here](artwork)**
+**😄 Our Artwork is [Here](artwork)**
 
 ## Environment
 
@@ -49,7 +49,7 @@
 
 4. Create Python3 files and Run following Code
 <br>**(fix 'haarcascade_frontalface_default.xml' file to Absolute Path)**
-```
+```python
 import numpy as np
 import cv2
  
@@ -74,8 +74,8 @@ cv2.destroyAllWindows()
 1. Install IDE : [https://processing.org/download/](https://processing.org/download/) (Check your OS.)
 
 2. Open IDE and Run following Code (Mouse Click!)
- ```
- voide setup() {
+ ```processing
+ void setup() {
   size(400, 400);
 }
 
@@ -99,7 +99,7 @@ void draw() {
 1. Open WebEditor : [https://editor.p5js.org/](https://editor.p5js.org/)
 
 2. Run following Code (Mouse Click!)
-```
+```javascript
 function setup() {
   createCanvas(400, 400);
 }
