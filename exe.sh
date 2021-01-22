@@ -1,6 +1,7 @@
 echo "linekd with www.processing.org/download...loading"
 
 start chrome https://processing.org/download/
+start chrome https://editor.p5js.org/
 
 cd example
 
