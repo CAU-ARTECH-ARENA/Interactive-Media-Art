@@ -5,20 +5,20 @@
 
 ## Environment
 
-#### Python
+#### Python (for ComputerVision)
 
 - **IDE : [anaconda3](https://anaconda.org/)**
 - **python >= 3.8** with Virtual Environment
 
-#### Processing
+#### Processing (for ImageProcessing)
 
 - **IDE : [processing3](https://processing.org/download/) >= 3.5.4** 
 
-#### C#
+#### C# (for ComputerVision)
 
 - **IDE : [Visual Studio](https://visualstudio.microsoft.com/ko/)**
 
-#### JavaScript
+#### JavaScript (for ImageProcessing)
 
 - **IDE : [Web Editor](https://editor.p5js.org/)**
 - **p5.js == 1.2.0**
