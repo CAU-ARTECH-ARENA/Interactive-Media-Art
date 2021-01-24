@@ -41,17 +41,3 @@ void draw() {
 void captureEvent(Capture c) {
   c.read();
 }
-
-void keyPressed() {
-  switch(key) {
-  case '1': 
-    opencv.loadCascade(OpenCV.CASCADE_FRONTALFACE);
-    break;
-  case '2' :
-    opencv.loadCascade(OpenCV.CASCADE_EYE);
-    break;
-  case '3' :
-    opencv.loadCascade(OpenCV.CASCADE_NOSE);
-    break;
-  }
-}
