@@ -1,5 +1,5 @@
-# video-filter
-*Create Video Filter with Face Tracking using opencv like Snow App and Zoom Func.*
+# Interactive-Media-Art
+*Create Interactive Media Art included Face Tracking using opencv.*
 
 **😄 Our Artwork is [Here](artwork)**
 
