@@ -45,7 +45,7 @@
 ([env_name]) C:> pip install opencv-python==4.0.0.21
 ```
 
-3. Open 'Anaconda Navigator' > Applications on [env_name] > Install and Launch Jupyter Notebook
+3. Open 'Anaconda Navigator' > Applications on [env_name] > Install and Launch Jupyter Notebook(or Spyder)
 
 4. Create Python3 files and Run following Code
 <br>**(fix 'haarcascade_frontalface_default.xml' file to Absolute Path)**
