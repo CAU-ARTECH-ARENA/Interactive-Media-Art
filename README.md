@@ -82,10 +82,10 @@ void draw() {
   //background(220);
   
   noStroke();
-  fill(random(0,255),random(0,255),random(0,255),20)
+  fill(random(0,255),random(0,255),random(0,255),20);
   
   if(mousePressed)
-    circle(mouseX, mouseY, 50)
+    circle(mouseX, mouseY, 50);
 }
  ```
  
