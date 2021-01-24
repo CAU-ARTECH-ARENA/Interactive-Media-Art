@@ -72,7 +72,12 @@ cv2.destroyAllWindows()
 
 1. Install IDE : [https://processing.org/download/](https://processing.org/download/) (Check your OS.)
 
-2. Open IDE and Run following Code (Mouse Click!)
+2. Open IDE and Install Libraries.
+
+- Video
+- OpenCV for Processing
+
+3. Run following Code (Mouse Click!)
  ```processing
  void setup() {
   size(400, 400);
@@ -89,7 +94,7 @@ void draw() {
 }
  ```
  
- 3. Imagine and Realizae Creative Idea as your Processing Code! 
+ 4. Imagine and Realizae Creative Idea as your Processing Code! 
 
 #### C#
 
