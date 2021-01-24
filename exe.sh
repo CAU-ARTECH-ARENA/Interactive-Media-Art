@@ -3,6 +3,7 @@ echo "linekd with www.processing.org/download...loading"
 start chrome https://processing.org/download/
 start chrome https://editor.p5js.org/
 
+:<<'END'
 cd example
 
 find . -name '*.pde' -exec mv {} ../../../../Desktop \;
@@ -16,6 +17,7 @@ mv 01-Thresholding.pde
 
 mkdir example_python
 find . -name '*.py' -exec mv {} example_python \;
+END
 
 :<<'END'
 linked with www.processing.org/download
