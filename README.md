@@ -1,5 +1,5 @@
-# Interactive-Media-Art
-*Create Interactive Media Art included Face Tracking using opencv.*
+# Vision-Art
+*Create Vision Art included Face Tracking using opencv.*
 
 **😄 Our Artwork is [Here](artwork)**
 
