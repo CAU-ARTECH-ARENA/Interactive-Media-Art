@@ -42,7 +42,7 @@
 ```bash
 (base) C:> conda create -n [env_name] python=3.8
 (base) C:> activate [env_name]
-([env_name]) C:> pip install opencv-python==4.0.0.21
+([env_name]) C:> pip install opencv-python==4.5.1.48
 ```
 
 3. Open 'Anaconda Navigator' > Applications on [env_name] > Install and Launch Jupyter Notebook(or Spyder)
