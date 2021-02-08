@@ -16,4 +16,12 @@ Settings : `import tensorflow` for Convolution, Pooling Layer.
 
 Reference : [What is Feature Map](https://towardsdatascience.com/applied-deep-learning-part-4-convolutional-neural-networks-584bc134c1e2)
 
-## 01 
+## 01 Hand Magic with @
+
+<p aling="center">
+<img src="01-Hand-Mafic-@/ref_01.gif">
+</p>
+
+Content : I'm Hand Magician.
+<br>Creator : [Bumsoo Kim](https://github.com/gh-BumsooKim)
+<br>Code : Processing Code, Not yet OpenSource.
