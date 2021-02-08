@@ -18,7 +18,7 @@ Reference : [What is Feature Map](https://towardsdatascience.com/applied-deep-le
 
 ## 01 Hand Magic with @
 
-<p aling="center">
+<p align="center">
 <img src="01-Hand-Magic-@/ref_01.gif">
 </p>
 
