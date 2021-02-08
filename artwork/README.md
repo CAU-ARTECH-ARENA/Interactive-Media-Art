@@ -19,7 +19,7 @@ Reference : [What is Feature Map](https://towardsdatascience.com/applied-deep-le
 ## 01 Hand Magic with @
 
 <p align="center">
-<img src="01-Hand-Magic-@/ref_01.gif">
+<img src="01-Hand-Magic-with-@/ref_01.gif">
 </p>
 
 Content : I'm Hand Magician.
